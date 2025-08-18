@@ -1,5 +1,7 @@
 # latex-template
 
+For the original template, check out [this repository](https://github.com/MrGalaxyDragon/latex-template).
+
 ## Requirements
 
 You need a [LaTeX](https://www.latex-project.org/) distribution.
